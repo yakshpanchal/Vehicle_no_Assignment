@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740813179457",
+    "project_id": "vehicleno-fc165",
+    "storage_bucket": "vehicleno-fc165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740813179457:android:b4603ba07552afb9a8d4c0",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_no_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1QEZ52T_m7L9gxfNI5ZMGbtRke0CXlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
